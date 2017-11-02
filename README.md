@@ -68,13 +68,13 @@ Explanation for Example Follow Up Question 2
     -   Local machines in the same network can still be pinged by IP
 
 
-a. Visit another website or ping another website. if you can ping or visit another website, most likely microsoft.com has a problem or the site is down.
-	b. If you cannot also ping or visit the other website successfully, try other machine on the network to ping microsoft.com and check other websites too. If you proved that the other machine has an internet, the first machine is at faulty. If all other machines cannot successfully ping microsoft.com or cannot browse the internet, the internet link is down and there is a need to check the internet connection link.
-c. If microsoft.com is pingable from other computer on the network, try using the Network Diagnostics  feature of the MacOS machine. (Apple menu > System Preferences. Select Network>Assist me>Diagnostics) Sometimes the utility can repair the problem.
-d. Try turning the WiFi Off and On for wireless connected machine and unplugging and plugging backed in the patch cable for wired connected machines.
-e. Try restarting the machine, restarting a machine could save you a lot time troubleshooting a faulty machine :) (Proven many times).
-f. Check IP settings for any misconfigurations like static IP address that has been set. Possible no gateway and DNS setting for static IP.
-g. If all workarounds do not work at all, the last resort would be to reinstall the MacOS. Backup all the required files before doing so.
+Visit another website or ping another website. if you can ping or visit another website, most likely microsoft.com has a problem or the site is down.
+If you cannot also ping or visit the other website successfully, try other machine on the network to ping microsoft.com and check other websites too. If you proved that the other machine has an internet, the first machine is at faulty. If all other machines cannot successfully ping microsoft.com or cannot browse the internet, the internet link is down and there is a need to check the internet connection link.
+If microsoft.com is pingable from other computer on the network, try using the Network Diagnostics  feature of the MacOS machine. (Apple menu > System Preferences. Select Network>Assist me>Diagnostics) Sometimes the utility can repair the problem.
+Try turning the WiFi Off and On for wireless connected machine and unplugging and plugging backed in the patch cable for wired connected machines.
+Try restarting the machine, restarting a machine could save you a lot time troubleshooting a faulty machine :) (Proven many times).
+Check IP settings for any misconfigurations like static IP address that has been set. Possible no gateway and DNS setting for static IP.
+If all workarounds do not work at all, the last resort would be to reinstall the MacOS. Backup all the required files before doing so.
 
 
 Thank you for your time.

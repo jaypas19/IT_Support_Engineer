@@ -28,6 +28,7 @@ The method of submission is part of the test (usage of Git) - but we won't use `
         1.  Example Follow Up Question 1
 
  - The IP Address you have provided seems to be your LAN IP Address. Can you direct us to the right person or someone from the IT Department who can  provide us with the complete details of your Internet Subscription please. You can also check your complete IP Address details with your ISP.  
+
             Explanation for Example Follow Up Question 1
         
 - Since the IP address provided by the vendor is not the right IP Address, I pressume that the vendor that is trying to connect to the publicly exposed  server is not from the IT department, hence, in order to get the correct information it is better to ask who is the right person to talk to. Checking  with their ISP is also an option.
@@ -35,7 +36,8 @@ The method of submission is part of the test (usage of Git) - but we won't use `
         1.  Example Follow Up Question 2
         
 - Is your Public IP Adress Static or Dynamic? 
-Explanation for Example Follow Up Question 2
+
+		 Explanation for Example Follow Up Question 2
 - The Question 2 is assuming that the correct Public IP Address has already been provided. Allowing access for a Dynamic IP Address will require  modification everytime the IP Address changes while allowing access for a Static IP Address can be done only once since the IP address does not  change.
 
 
